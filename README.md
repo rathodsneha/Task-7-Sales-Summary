@@ -1,6 +1,6 @@
 # Task 7: Basic Sales Summary using SQLite & Python
 
-## 🎯 Objective:
+##  Objective:
 Extract and visualize sales summary data using SQL inside Python.
 
 ## 🛠️ Tools Used:
@@ -9,7 +9,7 @@ Extract and visualize sales summary data using SQL inside Python.
 - Pandas
 - Matplotlib
 
-## 📂 Summary of Steps:
+##  Summary of Steps:
 1. Created a SQLite database (`sales_data.db`) with a `sales` table.
 2. Inserted sample sales data.
 3. Ran SQL query inside Python using `sqlite3` and `pandas` to calculate:
@@ -18,7 +18,7 @@ Extract and visualize sales summary data using SQL inside Python.
 4. Printed results in terminal
 5. Plotted bar chart using `matplotlib`
 
-## 📊 Output (Example):
+##  Output (Example):
 
 | Product  | Total Qty | Revenue |
 |----------|-----------|---------|
@@ -27,10 +27,11 @@ Extract and visualize sales summary data using SQL inside Python.
 | Pencil   | 15        | 30.0    |
 | Eraser   | 7         | 21.0    |
 
-## 📈 Visualization:
+##  Visualization:
 The chart is saved as: `sales_chart.png`
 
-## 📁 Files Included:
+## 
+Files Included:
 - `sales_data.db`: SQLite database
 - `task7_summary.py`: Python script
 - `sales_chart.png`: Bar chart image
