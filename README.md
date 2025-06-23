@@ -3,7 +3,7 @@
 ##  Objective:
 Extract and visualize sales summary data using SQL inside Python.
 
-## 🛠️ Tools Used:
+##  Tools Used:
 - Python 3.13
 - SQLite3
 - Pandas
